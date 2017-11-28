@@ -1,0 +1,11 @@
+On the uppmax terminal:
+gedit & [file name]
+    #OPEN THE FILE IN GEDIT, AND EDIT IT
+grep science science.txt
+    #GET EACH LINE WITH 'science'
+open ('filename.txt')
+for line in filename.txt:
+    #line is a string.
+line.split()
+    #make the line into a list
+list.append, list.extend
